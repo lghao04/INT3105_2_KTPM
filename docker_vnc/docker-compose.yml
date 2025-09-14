@@ -1,0 +1,7 @@
+services:
+  vnc-desktop:
+    build: .
+    container_name: vnc-desktop
+    ports:
+      - "5901:5901"
+    restart: unless-stopped
