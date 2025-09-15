@@ -1,0 +1,18 @@
+1. Docker là gì?
+là 1 nền tảng phần mềm cho phép chúng ta có thể xây duwnghj kiểm  thruw và triển khai ứng dụng nhanh chóng trên các mtruong khac nhau . HDH khác nhau
+giúp chúng ta tạo ra các môi trường cách ly được gọi là các container . các ứng dụng của chúng ta sẽ được chạy trên cách containner này.
+2. docker-compose ?
+công cụ đi kèm docker giúp quản lý nhiều container cùng lúc.
+( thông qua docker-compose.yml)
+
+3.
+
+Unix: hệ điều hành gốc, đóng, thương mại (AT&T + các biến thể).
+
+Linux: clone Unix, mã nguồn mở, cực phổ biến.
+
+BSD: nhánh từ Unix gốc, mở, ảnh hưởng lớn (FreeBSD, macOS).
+
+*nix: thuật ngữ chung chỉ tất cả các hệ điều hành “giống Unix”.
+
+4.
